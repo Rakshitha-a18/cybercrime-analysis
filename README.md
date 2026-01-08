@@ -1,28 +1,35 @@
 # Cybercrime Analysis Project
 
-## Project Overview
-This project analyzes cybercrime-related data using Python and Jupyter Notebook to identify trends and patterns.
+## 📌 Project Overview
+This project focuses on analyzing cybercrime-related data to identify patterns, trends, and insights using data analysis and visualization techniques. The analysis helps in understanding cybercrime activities and supports data-driven decision-making.
 
-## Objectives
-- Clean and preprocess cybercrime data
+## 🧠 Objectives
+- Explore and clean cybercrime datasets
 - Perform exploratory data analysis (EDA)
-- Visualize important insights
+- Identify trends and patterns in cybercrime data
+- Visualize key findings using Python libraries
 
-## Files
-- Analysis.ipynb – Data analysis and visualization
-- CyberCrime.ipynb – Cybercrime-focused analysis
-- Agora.csv – Raw dataset
-- Agora_cleaned.csv – Cleaned dataset
+## 📂 Project Structure
+- `Analysis.ipynb` – Data cleaning, analysis, and visualizations
+- `CyberCrime.ipynb` – Cybercrime-focused exploratory analysis
+- `Agora.csv` – Raw dataset
+- `Agora_cleaned.csv` – Cleaned and preprocessed dataset
+- `.gitignore` – Ignored unnecessary files
 
-## Tools Used
+## 🛠️ Technologies Used
 - Python
 - Jupyter Notebook
 - Pandas
 - NumPy
-- Matplotlib
+- Matplotlib / Seaborn
 
-## Outcome
-The project demonstrates practical data analysis skills applied to real-world cybercrime data.
+## 📊 Key Highlights
+- Data preprocessing and cleaning
+- Handling missing values and inconsistencies
+- Visual analysis of cybercrime trends
+- Insightful plots and interpretations
 
-## Author
-Rakshitha
+## 🚀 How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rakshitha-a18/cybercrime-uea.git
